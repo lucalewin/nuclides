@@ -1,0 +1,12 @@
+[package]
+name = "nuclides"
+version = "0.0.0"
+edition = "2021"
+authors = ["Luca Lewin <contact@lucalewin.dev>"]
+description = "physical properties of all known nuclides"
+license = "MIT OR Apache-2.0"
+homepage = "https://lucalewin.dev/projects/nuclides"
+documentation = "https://lucalewin.dev/docs/nuclides"
+repository = "https://github.com/lucalewin/nuclides"
+
+[dependencies]
